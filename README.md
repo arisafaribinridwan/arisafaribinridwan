@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arisafaribinridwan
 - 👀 I’m interested in Mobile Apps and Web Apps
-- 🌱 I’m currently learning flutter and PHP (Laravel)
+- 🌱 I’m currently HTML, CSS, JS & VUE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
